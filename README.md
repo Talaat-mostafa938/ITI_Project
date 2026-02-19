@@ -19,7 +19,7 @@
 **LLM Provider:** Groq (Llama 3.3 70B)  
 
 
-### 🔑 Groq API Key 
+### 🔑 Groq API Key             
 You must provide your own API key.    
 Get it from:    
 👉 https://console.groq.com/    

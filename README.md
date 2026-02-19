@@ -9,6 +9,15 @@
 - The backend runs on FastAPI and mounts the Gradio interface at the root path.
 
 
+## 🛠️ Technologies Used
+
+**Backend:** FastAPI , Uvicorn    
+**Frontend:** Gradio   
+**Orchestration:** LangChain  
+**Embeddings:** HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
+**Vector Store:** FAISS       
+**LLM Provider:** Groq (Llama 3.3 70B)  
+
 
 🔑 Groq API Key 
 You must provide your own API key.    

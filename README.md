@@ -11,7 +11,7 @@
 
 
 🔑 Groq API Key 
-You must provide your own API key. 
-Get it from: 
-👉 https://console.groq.com/ 
-The app will ask for the key in the UI.
+You must provide your own API key.    
+Get it from:    
+👉 https://console.groq.com/    
+The app will ask for the key in the UI.   

@@ -1,6 +1,6 @@
 ## 📚 Chat with Your Documents — RAG System (FastAPI + Gradio + LangChain)
 
-# A simple Retrieval-Augmented Generation (RAG) application that allows users to:
+### A simple Retrieval-Augmented Generation (RAG) application that allows users to:
 
 - Upload PDF or DOCX files 
 - Convert documents into embeddings using FAISS 

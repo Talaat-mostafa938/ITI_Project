@@ -7,3 +7,11 @@
 - Ask questions about the content using an LLM (Groq / Llama 3.3)  
 - Chat through an interactive Gradio UI  
 - The backend runs on FastAPI and mounts the Gradio interface at the root path.
+
+
+
+🔑 Groq API Key 
+You must provide your own API key. 
+Get it from: 
+👉 https://console.groq.com/ 
+The app will ask for the key in the UI.
